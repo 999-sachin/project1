@@ -1,0 +1,41 @@
+body{
+    background:linear-gradient(123deg,orange,white,green);
+    background-attachment: fixed;
+    height:100vh;
+}
+h1{
+    font-size:64px;
+    text-align: center;
+    text-decoration:5px solid black underline;
+    letter-spacing:1px ;
+} 
+img{
+    height: 300px;
+    margin: 30px;
+    float: right;
+}
+p{
+    font-size: 33px;
+    text-align: justify;
+    clear:left;
+
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background-color:white ;
+    border-radius: 30px;
+    box-shadow:2px 3px 4px green;
+    float: left;
+    margin:15px;;
+}
+.bigbox{
+    max-width: 1400px;
+    margin: auto;
+}
+.box1{
+    width: 30vw;
+}
+.box2{
+    width: 20vw;
+}

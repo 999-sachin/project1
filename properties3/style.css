@@ -1,0 +1,31 @@
+.sach{
+    background-color: #ff0000;
+    width: 100px;
+    height:100px;
+    text-align: center;
+}
+body{
+    /* background-color: hsla(3,50%,333%, 0.4); */
+    /* background:linear-gradient(orange 50%,white 45% ,green 3%); */
+    font-family: sans-serif;
+    font-weight:20;
+    font-style:italic;
+    height: 50vh;
+    background-color: aqua;
+p{
+    background-color: rgb(188, 111, 12);
+}
+}
+h2{
+    text-align:center;
+    color: blue;
+    background-color:blanchedalmond;
+}
+select{
+    color:red;
+    background-color: rgb(255, 129, 169);
+}
+img{
+    height: 50px;
+    width: 50px;
+}
